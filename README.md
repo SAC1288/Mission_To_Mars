@@ -1,2 +1,2 @@
 # Mission_To_Mars
-This project utilizes websrcapping to collect data from NASA sites and store and analyze them through MongoDB.
+This project utilizes websrcapping to collect data from NASA sites and store and analyze them through MongoDB. I used splinter and beautiful soup to do the webscrapping in Jupyter Notebook and then imported the file into VS Code. From there, I refactored the code, created a flask app, and an HTML CSS file. With these three files and a MongoDB file, I was able to pull the scraped data into my own webpage and present a summary of news published by NASA's Mars website. 
